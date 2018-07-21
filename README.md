@@ -3,4 +3,3 @@ This project in aimed at implementing an alternative code to the solution and pr
 
 Download the current CMU dictionary from SourceForge
 http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict
-
