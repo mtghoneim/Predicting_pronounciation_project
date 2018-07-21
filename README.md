@@ -5,5 +5,5 @@ Download the current CMU dictionary from SourceForge
 http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict
 
 
-[ ] Checkbox
+- [ ] Checkbox
 
